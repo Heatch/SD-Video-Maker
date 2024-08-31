@@ -20,6 +20,4 @@ Rules/Guidelines for Scenes:
 - Use imagination to fill in visual details not explicitly stated in the story.
 - Ensure prompts are optimized for image generation, with clear descriptions of facial expressions, body language, and settings.
 - Keep in mind that for image generation each prompt does not have context of the story, so redescription of the character and scene is necessary and no need to include the character's name in the prompt.
-
-Got it? If the instructions are clear, please provide JSON with a single true/false field 'instructions_clear'
 """
